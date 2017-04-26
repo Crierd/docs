@@ -4,7 +4,7 @@ Forum Rules
 
 General Misconduct
 ==================
-Do not troll, flame, spam, post meaningless content such as single word or off-topic replies, or participate in otherwise disruptive behavior. 
+Do not troll, flame, spam, post meaningless content such as single word or off-topic replies, melodramatic or bewailing content or participate in otherwise disruptive behavior. 
 
 Constructive criticism and rational or mature discussion which may illicit an overeactive response does not mean the person making the valid point is trolling or flaming. Insulting someone because of a post they made is flaming, telling them you disagree beacuse of a certain reason is not. 
 
