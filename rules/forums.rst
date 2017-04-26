@@ -3,7 +3,7 @@ Forum Rules
 #############
 
 General Misconduct
-==================ff
+==================
 Do not troll, flame, spam, post meaningless content such as single word or off-topic replies, or participate in otherwise disruptive behavior. 
 
 Constructive criticism and rational or mature discussion which may illicit an overeactive response does not mean the person making the valid point is trolling or flaming. Insulting someone because of a post they made is flaming, telling them you disagree beacuse of a certain reason is not. 
@@ -12,9 +12,9 @@ Illegal Content
 ===============
 Do not post material or links to content which is illegal as per United States, Canadian, and International law.
 
-Advertisingf
+Advertising
 ===========
-Do not advertise other roleplaying communities or competitors to Owl Gaming.
+Do not advertise competitors to Owl Gaming.
 
 English
 =======
@@ -36,5 +36,11 @@ Signatures shall be non-intrusive and small. No moving images or embedded videos
 
 Auction Rules
 =============
-We have a forum auction system which may be used by the players. The rules are found `HERE <https://forums.owlgaming.net/topic/42730-auction-regulations/>`_
+We have a forum auction system which may be used by the players. The rules are found `HERE. <https://forums.owlgaming.net/topic/42730-auction-regulations/>`_
 
+Plagiarism
+==========
+Do not utilize someone else's personal content without their permission or pass it off as your own.
+
+
+*Forum administrators may issue warnings, infractions, or bans at their own discretion for breaking the forum rules. You may appeal all punishments at our ticket center `HERE. <https://owlgaming.net/support/>`_ Content and works submitted by posting, submission, file uploads, and file links, which were created by you, may be used, modified, deleted, etc, at the discretion of Owl Gaming.*
