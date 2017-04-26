@@ -14,7 +14,7 @@ Do not post material or links to content which is illegal as per United States, 
 
 Advertising
 ===========
-Do not advertise competitors to Owl Gaming.
+Do not advertise competitors of Owl Gaming.
 
 English
 =======
@@ -43,4 +43,4 @@ Plagiarism
 Do not utilize someone else's personal content without their permission or pass it off as your own.
 
 
-*Forum administrators may issue warnings, infractions, or bans at their own discretion for breaking the forum rules. You may appeal all punishments at our ticket center `HERE. <https://owlgaming.net/support/>`_ Content and works submitted by posting, submission, file uploads, and file links, which were created by you, may be used, modified, deleted, etc, at the discretion of Owl Gaming.*
+*Forum administrators may issue warnings, infractions, or bans at their own discretion for breaking the forum rules. You may appeal all punishments at our ticket center* `HERE. <https://owlgaming.net/support/>`_ *Content and works submitted by posting, submission, file uploads, and file links, which were created by you, may be used, modified, deleted, etc, at the discretion of Owl Gaming.*
